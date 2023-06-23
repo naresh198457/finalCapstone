@@ -19,8 +19,9 @@ A **finance calculator** is a utility device that performs investment and home l
 * Install the Python 3.10.7.
 * Install the visual studio, but any python editor can do the job. 
 * Install the math library.
-'''python 
-pip install math'''
+```python 
+pip install math
+```
 
 ## How to Use
 * This program can run on both Windows and linuzx operating system by using any python editors.
