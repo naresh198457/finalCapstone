@@ -1,7 +1,17 @@
 # Finance Calculator
 
+## Overview ##
 This is finance calculator is integrated with an investment calculator and a home loan repayment calculator to help you calculate the home loan repayment and investment.  
 
+## Table of Contents##
+
+[Introduction](#introduction)
+[Installation](#installation)
+[How to Use](#how-to-use)
+
+## Introduction
+## Installation
+## How to Use
 
 The project name.
 ○ A clear, short, and to the point description of your project. Describe
