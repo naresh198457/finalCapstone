@@ -47,4 +47,5 @@ A=round(P*math.pow((1+r),t),1)
 ```python
 repayment=(i*P)/(1-(1+i)**(-n))
 ```
+![Example of calculating home loan.](Bond.png)
 
