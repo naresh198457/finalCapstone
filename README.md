@@ -1,4 +1,6 @@
-# ** Finance Calculator **
+# Finance Calculator
+
+This is finance calculator is integrated with an investment calculator and a home loan repayment calculator to help you calculate the home loan repayment and investment.  
 
 
 The project name.
