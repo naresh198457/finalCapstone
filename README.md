@@ -6,7 +6,9 @@ This is finance calculator is integrated with an investment calculator and a hom
 ## Table of Contents##
 
 [Introduction](#introduction)
+
 [Installation](#installation)
+
 [How to Use](#how-to-use)
 
 ## Introduction
