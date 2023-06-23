@@ -21,15 +21,17 @@ A **finance calculator** is a utility device that performs investment and home l
 * This program can run on both Windows and linuzx operating system by using any python editors.
 * This program is developed by Python 3.10.7. 
 * For investment calculator: provide the details
-    * Amount of money
-    * Interest rate
-    * Number of years palnning to invest
+    * Deposit Money (P)
+    * Interest rate (r)
+    * Number of years palnning to invest (t)
     * select **simple** or **compound** interest
-* For simple interest case, the formula $A = P(1+r\times t)$ used to calculate the amount of interest you'll earn on your on your investment for simple or compound interest. 
+* For **simple** interest case, the formula $A = P(1+r\times t)$ used to calculate the amount of interest you'll earn on your on your investment. 
+* For **compound** interest case, the formula $A = P(1+r)^t$ used to calculate the amount of interest you'll earn on your on your investment.
 * For Home loan repayment: proviode the details
     * House value 
     * Interest rate
     * Number of months remaining to repay. 
+* The formula $\frac{i\times P}{1-(1+i)^(-n)}$
 
 
 ○ An installation section that tells other users how to install your project
