@@ -16,6 +16,11 @@ A **finance calculator** is a utility device that performs investment and home l
 * Home loan repayment (bond) - to calculate the amount you'll have to pay on a home loan.
 
 ## Installation
+* Install the Python 3.10.7.
+* Install the visual studio, but any python editor can do the job. 
+* Install the math library.
+'''python 
+pip install math'''
 
 ## How to Use
 * This program can run on both Windows and linuzx operating system by using any python editors.
@@ -28,14 +33,8 @@ A **finance calculator** is a utility device that performs investment and home l
 * For **simple** interest case, the formula $A = P(1+r\times t)$ used to calculate the amount of interest you'll earn on your on your investment. 
 * For **compound** interest case, the formula $A = P(1+r)^t$ used to calculate the amount of interest you'll earn on your on your investment.
 * For Home loan repayment: proviode the details
-    * House value 
-    * Interest rate
-    * Number of months remaining to repay. 
-* The formula $\frac{i\times P}{1-(1+i)^(-n)}$
+    * House value (P)
+    * Interest rate (i)
+    * Number of months remaining to repay (n). 
+* The formula $\frac{i\times P}{1-(1+i)^(-n)}$ will calculate the amount you'll have to pay on a home loan.
 
-
-○ An installation section that tells other users how to install your project
-locally.
-
-○ A section for credits that highlights and links to the authors of your
-project if the project has been created by more than one person.
