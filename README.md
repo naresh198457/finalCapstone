@@ -35,10 +35,14 @@ pip install math
 ```python 
 A=round(P*(1+r*t),1)
 ```
+Example of calculating investment return with simple interest.
+![Example of calculating investment return with simple interest.](Investment_Simple.png)
 * For **compound** interest case, the formula $A = P(1+r)^t$ used to calculate the amount of interest you'll earn on your on your investment.
 ```python 
 A=round(P*math.pow((1+r),t),1)
 ```
+Example of calculating investment return with compound interest.
+![Example of calculating investment return with compound interest.](Investment_Compound.png)
 * For Home loan repayment: proviode the details
     * House value (P)
     * Interest rate (i)
@@ -47,5 +51,6 @@ A=round(P*math.pow((1+r),t),1)
 ```python
 repayment=(i*P)/(1-(1+i)**(-n))
 ```
+Example of calculating remaing payment of the home loan.
 ![Example of calculating home loan.](Bond.png)
 
