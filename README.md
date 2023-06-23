@@ -32,10 +32,19 @@ pip install math
     * Number of years palnning to invest (t)
     * select **simple** or **compound** interest
 * For **simple** interest case, the formula $A = P(1+r\times t)$ used to calculate the amount of interest you'll earn on your on your investment. 
+```python 
+A=round(P*(1+r*t),1)
+```
 * For **compound** interest case, the formula $A = P(1+r)^t$ used to calculate the amount of interest you'll earn on your on your investment.
+```python 
+A=round(P*math.pow((1+r),t),1)
+```
 * For Home loan repayment: proviode the details
     * House value (P)
     * Interest rate (i)
     * Number of months remaining to repay (n). 
 * The formula $\frac{i\times P}{1-(1+i)^(-n)}$ will calculate the amount you'll have to pay on a home loan.
+```python
+repayment=(i*P)/(1-(1+i)**(-n))
+```
 
