@@ -1,21 +1,30 @@
 # Finance Calculator
 
-## Overview ##
+## Overview
 This is finance calculator is integrated with an investment calculator and a home loan repayment calculator to help you calculate the home loan repayment and investment.  
 
-## Table of Contents##
+## Table of Contents
 
-[Introduction](#introduction)
-
-[Installation](#installation)
-
-[How to Use](#how-to-use)
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [How to Use](#how-to-use)
 
 ## Introduction
-## Installation
-## How to Use
+A **finance calculator** is a utility device that performs investment and home loan repayment operations on your financial details inculding deposit, number of years that money is being invested and interest rate. 
 
-The project name.
+* Investment calculator- to calculate the amount of interest you'll earn on your investment.
+* home loan repayment (bond) - to calculate the amount you'll have to pay on a home loan.
+
+## Installation
+
+## How to Use
+* This program can run on both Windows and linuzx operating system by using any python editors.
+* This program is developed by Python 3.10.7. 
+* For investment calculator: provide the details like
+    * Amount of money
+    * Interest rate
+    * Number of years palnning to invest
+    * select **simple** or **compound** interest
 ○ A clear, short, and to the point description of your project. Describe
 the importance of your project, and what it does.
 ○ A table of contents to allow other people to quickly navigate
