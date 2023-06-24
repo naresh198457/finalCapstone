@@ -54,3 +54,6 @@ repayment=(i*P)/(1-(1+i)**(-n))
 Example of calculating remaing payment of the home loan.
 ![Example of calculating home loan.](Bond.png)
 
+## Acknowledge
+I would like to thank HyperionDev team who are so supportive and method of teaching. 
+
